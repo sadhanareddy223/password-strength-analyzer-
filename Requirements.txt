@@ -1,0 +1,9 @@
+# Requirements for Password Strength Analyzer with Custom Wordlist Generator
+# No external dependencies required
+# Works with Python 3.8+
+
+argparse
+re
+itertools
+math
+datetime
